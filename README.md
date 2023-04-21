@@ -1,0 +1,2 @@
+The solution for the task is displayed in the main.ipynb file. For the task, the images are read by using OpenCV. The Horn Schunck method is defined, using the gradient calculation function.
+The notebook can be executed in its entirety without any other interference. Additionally, all results are already provided in the output folder without needing to execute any code. Executing the code will overwrite the files in the output folder.
